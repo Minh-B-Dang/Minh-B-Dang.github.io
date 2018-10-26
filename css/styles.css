@@ -3,7 +3,7 @@ img {
 }
 
 .section {
-    background-image: url("https://Minh-B-Dang.github.io/profile.JPG") no-repeat;
+    background: url("https://Minh-B-Dang.github.io/profile.JPG") no-repeat;
     background-position: left;
     background-size: contain;
 }
